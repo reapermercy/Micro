@@ -1,0 +1,6 @@
+@Micro2_HostAddress = http://localhost:5275
+
+GET {{Micro2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
